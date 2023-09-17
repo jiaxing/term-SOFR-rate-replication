@@ -1,4 +1,3 @@
-# term-sofr-replication
 **Computing the Term SOFR rate implied by SOFR futures prices**.  
 This is the supporting code of the article in https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4566882.
 
